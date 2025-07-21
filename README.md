@@ -59,16 +59,10 @@ When it's your turn, you'll see something like:
 
 ### **Backend Setup**
 ```bash
-# 1. Navigate to project
-cd "/Users/ian.evensen/Documents/PPs/poker app"
+# 1. Install Python dependencies (if not done)
+pip install requirements.txt
 
-# 2. Activate virtual environment (if not already active)
-source venv/bin/activate
-
-# 3. Install Python dependencies (if not done)
-pip install fastapi uvicorn pydantic deuces
-
-# 4. Start backend server
+# 2. Start backend server
 python3 run_server.py
 ```
 
