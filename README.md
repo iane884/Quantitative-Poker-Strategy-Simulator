@@ -1,4 +1,4 @@
-Quantitative Finance Poker Training App - Complete Setup
+# Quantitative Finance Poker Training App
 
 A full-stack educational poker application that teaches quantitative finance concepts through interactive gameplay.
 
